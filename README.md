@@ -1,0 +1,1 @@
+This app uses React and Redux. It also uses Bootstrap and AirBnb components.
