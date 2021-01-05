@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "css-loader": "^3.4.2",
     "google-map-react": "^1.1.7",
